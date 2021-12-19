@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.exe
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\bin\Debug\net5.0\ref\FibonacciSeries.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\obj\Debug\net5.0\ref\FibonacciSeries.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\FibonacciSeries\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.genruntimeconfig.cache
