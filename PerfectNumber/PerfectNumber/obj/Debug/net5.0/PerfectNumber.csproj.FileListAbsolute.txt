@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\bin\Debug\net5.0\PerfectNumber.exe
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\bin\Debug\net5.0\PerfectNumber.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\bin\Debug\net5.0\PerfectNumber.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\bin\Debug\net5.0\PerfectNumber.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\bin\Debug\net5.0\PerfectNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\bin\Debug\net5.0\ref\PerfectNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\bin\Debug\net5.0\PerfectNumber.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\obj\Debug\net5.0\PerfectNumber.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\obj\Debug\net5.0\PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\obj\Debug\net5.0\PerfectNumber.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\obj\Debug\net5.0\PerfectNumber.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\obj\Debug\net5.0\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\obj\Debug\net5.0\PerfectNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\obj\Debug\net5.0\ref\PerfectNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\obj\Debug\net5.0\PerfectNumber.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PerfectNumber\PerfectNumber\obj\Debug\net5.0\PerfectNumber.genruntimeconfig.cache
