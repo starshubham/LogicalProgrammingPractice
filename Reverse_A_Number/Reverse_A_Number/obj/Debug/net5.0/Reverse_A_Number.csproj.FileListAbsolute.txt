@@ -1,0 +1,15 @@
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\bin\Debug\net5.0\Reverse_A_Number.exe
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\bin\Debug\net5.0\Reverse_A_Number.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\bin\Debug\net5.0\Reverse_A_Number.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\bin\Debug\net5.0\Reverse_A_Number.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\bin\Debug\net5.0\Reverse_A_Number.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\bin\Debug\net5.0\ref\Reverse_A_Number.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\bin\Debug\net5.0\Reverse_A_Number.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\obj\Debug\net5.0\Reverse_A_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\obj\Debug\net5.0\Reverse_A_Number.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\obj\Debug\net5.0\Reverse_A_Number.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\obj\Debug\net5.0\Reverse_A_Number.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\obj\Debug\net5.0\Reverse_A_Number.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\obj\Debug\net5.0\ref\Reverse_A_Number.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\obj\Debug\net5.0\Reverse_A_Number.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\Reverse_A_Number\Reverse_A_Number\obj\Debug\net5.0\Reverse_A_Number.genruntimeconfig.cache

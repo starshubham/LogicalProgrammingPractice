@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.exe
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\bin\Debug\net5.0\ref\PrimeNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\obj\Debug\net5.0\ref\PrimeNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Logical Programs\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.genruntimeconfig.cache
